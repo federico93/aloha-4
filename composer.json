@@ -1,6 +1,9 @@
 {
     "name": "federico93/aloha-4",
     "type": "project",
+    "scripts": {
+        "test": "phpunit test"
+    },
     "authors": [
         {
             "name": "Federico Burgardt",
